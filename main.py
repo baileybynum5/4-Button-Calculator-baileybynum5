@@ -24,5 +24,5 @@ elif operation == 2:
 
 #print(f"What operation do you want to perform?\n 1. Add\n 2. Subtract\n 3. Multiply\n 4. Divide")
 
-# in order for your code to repeat you have to have a loop (1. for loops and while loops)
+# in order for your code to repeat you have to have a loop (1. for loops and while loops).
 # i suggest that you use a while loop here
